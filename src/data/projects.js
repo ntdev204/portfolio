@@ -1,48 +1,43 @@
+
 const data = [
   // {
   //   id: '1',
-  //   title: 'Syntho',
+  //   title: 'Teck Share',
   //   description:
-  //     'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+  //     'Coming soon...',
   //   image: {
-  //     src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
+  //     src: '../../public/res/no-img-250x250',
   //     placeholderSrc:
   //       'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
   //   },
   //   links: {
-  //     site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+  //     site: 'https://ntdev.online',
   //   },
   //   technologies: [
   //     '#typescript',
   //     '#react-native',
-  //     '#react-native-web',
-  //     '#mobx-state-tree',
-  //     '#expo',
-  //     '#i18next',
-  //     '#react-navigation',
-  //     '#sentry',
+  //     '#react',
+  //     '#node.js',
+  //     '#express.js',
   //   ],
   // },
   // {
   //   id: '2',
-  //   title: 'Minfin - Currency Rates',
+  //   title: 'Git Profile',
   //   description:
-  //     'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+  //     'Github Profile of NTDEV',
   //   image: {
-  //     src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
+  //     src: 'https://avatars.githubusercontent.com/u/139034770?s=96&v=4',
   //     placeholderSrc:
   //       'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
   //   },
   //   links: {
-  //     site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+  //     site: 'https://ntdev.id.vn',
   //   },
   //   technologies: [
   //     '#typescript',
   //     '#react-native',
-  //     '#mobx-keystone',
-  //     '#i18next',
-  //     '#firebase-analytics',
-  //     '#google-maps',
+  //     '#react',
   //   ],
   // },
   // {
